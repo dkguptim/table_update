@@ -1,0 +1,154 @@
+Signature-Version: 1.0
+Created-By: Talend
+SHA-256-Digest-Manifest: I6l2CLI2OgefTW4y2gkxSFz5JHzdiBBpfBX8EF2CmGw=
+
+Name: IT005p_table_update_job/IT005p_table_update_job_run.bat
+SHA-256-Digest: 0wv+Jtvtn/umr/bebaoQg8etKBpDgsMjtoO2lRBUZUw=
+
+Name: IT005p_table_update_job/IT005p_table_update_job_run.ps1
+SHA-256-Digest: gDNSbs1+GFwrLL7/ASy3TuBLrgiqJCCTv8Jz6zip764=
+
+Name: IT005p_table_update_job/IT005p_table_update_job_run.sh
+SHA-256-Digest: cFOCsiUQKTx1GTZMEedhNDx5rkXV/y17yXapyhE1GYU=
+
+Name: IT005p_table_update_job/article_backfeed_updated/it005p_table_up
+ date_job_0_1/contexts/Default.properties
+SHA-256-Digest: IHigwTudE1Aj0FY8NUhUp517E2IMvOZsKaQlKzx5icY=
+
+Name: IT005p_table_update_job/it005p_table_update_job_0_1.jar
+SHA-256-Digest: 75ocyeUP+f3ub7xlacmZ5xzagxAck4wI3bEAT5yz0UQ=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/.settings
+ /links/_WYLUYLB0EeaOr91d2ymlaQ.link
+SHA-256-Digest: lyF0+OCTQqeHjKtllsRQjl/D7HazCoggEduIh8gcxSs=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/.settings
+ /links/_hHtsEBX0EfCPYPnHbrjoFg.link
+SHA-256-Digest: ZICqIALv50u6/fvha+Ju+d5kr9eLRVXyJqj4IGO8Odk=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/.settings
+ /migration_task.index
+SHA-256-Digest: 6dEBIkmrr88iXetNFV7FwBuTvCDsGAKUrJzFypklBS8=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/.settings
+ /project.settings
+SHA-256-Digest: 2/YK2VCGkFlplhy7b3/tpXn7Y25HVU5NpTfOT0/SBr0=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/.settings
+ /relationship.index
+SHA-256-Digest: nYjzkr7RfAmVRTsL2+Ge8bcwvwURgZi4N+f/RGqAlao=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/context/C
+ ONTEXT_AS400_ADR7_MD_0.1.item
+SHA-256-Digest: utm/IWEJGwBFXTqmI43czbUZpXVq+qqlFyFItvOwaPs=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/context/C
+ ONTEXT_AS400_ADR7_MD_0.1.properties
+SHA-256-Digest: W5F+T27R5s2KCYi4U7XYiW6if4pAyN2qa5VWMrGv6Q8=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/context/C
+ ONTEXT_RT_MD_L1840_ARTICLE_CONFIGURATION_FILE_0.1.item
+SHA-256-Digest: LP9spHjXXFccJFDeDUSFyd627wAsUlpAytFcgedeg6U=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/context/C
+ ONTEXT_RT_MD_L1840_ARTICLE_CONFIGURATION_FILE_0.1.properties
+SHA-256-Digest: PLb/qb1W1tWl1zeIMjKt8g2xDwHwkl6/BQT3QHZXt/E=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/metadata/
+ connections/ADR7_0.1.item
+SHA-256-Digest: k+XCmLEWfmmTf2JUUv+j8KaEIpBTccgWJBom2/I3OZ4=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/metadata/
+ connections/ADR7_0.1.properties
+SHA-256-Digest: YWwUKE+jepMGXTQ2FIugflyBi/R3CayRpSu1aB0Xg94=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/process/A
+ RTICLE_BACKFEED_TRANSFORM/IT005p_table_update_job_0.1.item
+SHA-256-Digest: Pi65NGmihgm665bTghGVO2dNiFUE1S6y3c1vCQJ+LV0=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/process/A
+ RTICLE_BACKFEED_TRANSFORM/IT005p_table_update_job_0.1.properties
+SHA-256-Digest: +FvuJYKUPO5i73cZM7/pXYMGP9rWio711iWcDEPsUS4=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/process/A
+ RTICLE_BACKFEED_TRANSFORM/IT005p_table_update_job_0.1.screenshot
+SHA-256-Digest: NfyPEsoaVOzebQ3nRb+jeu9bzqOS4WgorqyUMBXK01w=
+
+Name: IT005p_table_update_job/items/article_backfeed_updated/talend.pr
+ oject
+SHA-256-Digest: DQqVJgY3qQTGXhpUlzeumBVLNMUJJ/pcnGW6RwA0cD0=
+
+Name: IT005p_table_update_job/log4j2.xml
+SHA-256-Digest: T+KGhpApkAZNMAR5nwH+Q7Lc9+AYFLJP7929uysiMpA=
+
+Name: IT005p_table_update_job/src/main/java/article_backfeed_updated/i
+ t005p_table_update_job_0_1/IT005p_table_update_job.java
+SHA-256-Digest: zn2jICf7p+pWo1y8IedDp6+pENm+3530GiJeCQF1JPc=
+
+Name: IT005p_table_update_job/src/main/resources/article_backfeed_upda
+ ted/it005p_table_update_job_0_1/contexts/Default.properties
+SHA-256-Digest: bHjzi/WWzQjf+YAeGa4PjIiqfs+4AqkDbYOQLbc85LY=
+
+Name: jobInfo.properties
+SHA-256-Digest: rP6Jtu5ZbvhYc/Ni+6aRmbdxSwQyOr6ng50FGvhh8Gg=
+
+Name: lib/accessors-smart-2.4.7.jar
+SHA-256-Digest: cMnYAApxUNhzte9o3dHud9YvUUEnD42cypvkKScqrsE=
+
+Name: lib/antlr-runtime-3.5.2.jar
+SHA-256-Digest: TKw19nAPzzHeofqReD87Rxwb44ohw2IQSpvjyvjFH+w=
+
+Name: lib/asm-9.1.jar
+SHA-256-Digest: eCXpK4ocmiEjV2+EiiRjlJvpId5Uu6glU8o3Bye5Zgc=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: FQuuUiYHA0gEURFZrmZ2mo8m4B3YW+8fShAoPvmGdiU=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: Dhj4qkl+mvE2JNQg2nP4Eb+199h29mDForJ1zPFX/80=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: s3vGmUZh2KjXnSOEINC9xgZqfUFD8YcTmRiJTUOqOwY=
+
+Name: lib/crypto-utils-0.31.12.jar
+SHA-256-Digest: TbKWLLveaNx3MIaBtcRhGhi7almCmMePWMNFqbPMJWs=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: hVq9Z6Oy5qkbp58JPqAOGcNVyYigCCt866KPyOXyviM=
+
+Name: lib/job-audit-1.4.jar
+SHA-256-Digest: k057t7RiS9mGocVFa0PH0BxxNbOkFiCgty8bT3xPF/Q=
+
+Name: lib/json-smart-2.4.7.jar
+SHA-256-Digest: KUIZ3oRVwbwGxJE4E82q5EFoO5QY/Uj6++a9hxZZFAM=
+
+Name: lib/jt400_V6R1.jar
+SHA-256-Digest: +r4UgHf75pSXG+lOqY9ZlQn6NBUUnQqABNVbPQYVA2c=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: JvLoY5sLco/BURcgNHgMG3mxEKdLtkFa8AAT6sHmNSE=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: cRa1qIo4eCqb6oqTCZVXjwCXQLpDs22oDt4cKy+sL+Y=
+
+Name: lib/log4j-slf4j-impl-2.17.1.jar
+SHA-256-Digest: wYAxcQW4j0UyuzKkiSCofD9b0iNke437JY/J2gMPQGo=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: PmSobk+tlNUL4BWA7aGX41BTalsqdspLShVh2mrBjTE=
+
+Name: lib/org.talend.dataquality.parser.jar
+SHA-256-Digest: ZJJeMMj2FMuQgvFQCHXAtxbBsf9rYWkH4pIAuPYCoj0=
+
+Name: lib/routines.jar
+SHA-256-Digest: IthA320KLRZv5922SqmBwjrxjT6OSelxmUuP18j1kHI=
+
+Name: lib/slf4j-api-1.7.25.jar
+SHA-256-Digest: oQDjFXLTKcJIwDeh1nzEbqRsuopYRpqEjTOA6x7jM1w=
+
+Name: lib/talend_file_enhanced-1.1.jar
+SHA-256-Digest: kzdYQhm7Ao6PbDki2IUPdQhFN6lgS3yARifUa8Jh5rQ=
+
+Name: lib/talendcsv.jar
+SHA-256-Digest: 8a6QNqcCY5fbT4C0nQhKEhM5gLddNwQTu+VtjzuhWoU=
+

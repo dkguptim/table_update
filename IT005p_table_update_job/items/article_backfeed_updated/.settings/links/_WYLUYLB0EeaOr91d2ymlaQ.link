@@ -1,0 +1,23 @@
+{
+  "itemId" : "_WYLUYLB0EeaOr91d2ymlaQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_aWV2QLB4EeaOr91d2ymlaQ",
+    "parameterList" : [ {
+      "id" : "_mfVm8TlaEe2rE5KWrXqoWg",
+      "name" : "CONTEXT_ADR7_LOGIN"
+    }, {
+      "id" : "_mfVm8jlaEe2rE5KWrXqoWg",
+      "name" : "CONTEXT_ADR7_PASSWORD"
+    }, {
+      "id" : "_mfVm8zlaEe2rE5KWrXqoWg",
+      "name" : "CONTEXT_ADR7_SERVER"
+    }, {
+      "id" : "_mfVm9DlaEe2rE5KWrXqoWg",
+      "name" : "CONTEXT_ADR7_DATABASE"
+    }, {
+      "id" : "_mfVm9TlaEe2rE5KWrXqoWg",
+      "name" : "CONTEXT_ADR7_ADDITIONAL_PARAMETERS"
+    } ]
+  } ]
+}
